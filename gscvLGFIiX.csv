@@ -1,0 +1,15 @@
+RANK FIXED,params,mean_test_score,std_test_score
+7,"{'class_weight': 'balanced', 'multi_class': 'ovr', 'solver': 'newton-cg'}",0.637182047,0.047795166
+7,"{'class_weight': 'balanced', 'multi_class': 'ovr', 'solver': 'lbfgs'}",0.637182047,0.047795166
+5,"{'class_weight': 'balanced', 'multi_class': 'ovr', 'solver': 'liblinear'}",0.679068693,0.03713487
+9,"{'class_weight': 'balanced', 'multi_class': 'ovr', 'solver': 'sag'}",0.634733437,0.048295777
+10,"{'class_weight': 'balanced', 'multi_class': 'ovr', 'solver': 'saga'}",0.634190328,0.048821271
+11,"{'class_weight': 'balanced', 'multi_class': 'auto', 'solver': 'newton-cg'}",0.614606625,0.053235226
+11,"{'class_weight': 'balanced', 'multi_class': 'auto', 'solver': 'lbfgs'}",0.614606625,0.053235226
+5,"{'class_weight': 'balanced', 'multi_class': 'auto', 'solver': 'liblinear'}",0.679068693,0.03713487
+14,"{'class_weight': 'balanced', 'multi_class': 'auto', 'solver': 'sag'}",0.606446318,0.05401545
+13,"{'class_weight': 'balanced', 'multi_class': 'auto', 'solver': 'saga'}",0.606718427,0.054251925
+2,"{'class_weight': 'none', 'multi_class': 'ovr', 'solver': 'newton-cg'}",0.710079119,0.034613612
+2,"{'class_weight': 'none', 'multi_class': 'ovr', 'solver': 'lbfgs'}",0.710079119,0.034613612
+1,"{'class_weight': 'none', 'multi_class': 'ovr', 'solver': 'sag'}",0.711168663,0.032163242
+4,"{'class_weight': 'none', 'multi_class': 'ovr', 'solver': 'saga'}",0.709808119,0.030467283
